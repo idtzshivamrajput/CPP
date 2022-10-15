@@ -5,7 +5,7 @@
 int main(){   // int- integer, main- function
     
         
-    std::cout<<"hemlo";
+    std::cout<<"hemlo bemtichod";
     return 0;
 }
 
