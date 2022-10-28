@@ -8,7 +8,7 @@ using namespace std;
 
 int main(){
     int sum=6;
-    cout<<"hemlo brother"<<sum;
+    cout<<"hemlo brUH"<<sum;
     return 0;
 }
 
